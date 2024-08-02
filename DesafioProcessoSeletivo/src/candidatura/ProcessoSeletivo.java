@@ -28,7 +28,7 @@ entrandoEmContato(candidato);
         if (atendeu)
             System.out.println("CONSEGUIMOS CONTATO COM " + candidato + " NA " +tentativasRealizadas + " TENTATIVAS");
 else
-            System.out.println("NAO CONSEGUIMOS CONTATO COM " + candidato + ",NUMERO MAXIMO DE TENTATIVAS" + tentativasRealizadas +  "Realizadas");
+            System.out.println("NAO CONSEGUIMOS CONTATO COM " + candidato + ",NUMERO MAXIMO DE TENTATIVAS" + tentativasRealizadas +  " REALIZADAS");
     }
 
 
